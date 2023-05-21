@@ -4,6 +4,9 @@
 
 Demo API URL: [https://api.fordproject.tech](https://api.fordproject.tech/)
 
+Run server เวลา 10.00 น. - 20.00 น.
+
+
 ## ขั้นตอนการติดตั้ง
 1.  ทำการ clone โปรเจคจาก GitHub โดยใช้คำสั่งใน Command Prompt หรือ Terminal:
     ```bash
