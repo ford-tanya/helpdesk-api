@@ -2,6 +2,8 @@
 # REST API สำหรับ Helpdesk
 โปรแกรมนี้เป็นเกี่ยวกับ RESTful API สำหรับจัดการฐานข้อมูลของโปรเจค helpdesk support ticket management application
 
+Demo API URL: [https://api.fordproject.tech](https://api.fordproject.tech/)
+
 ## ขั้นตอนการติดตั้ง
 1.  ทำการ clone โปรเจคจาก GitHub โดยใช้คำสั่งใน Command Prompt หรือ Terminal:
     ```bash
